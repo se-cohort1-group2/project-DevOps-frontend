@@ -1,0 +1,97 @@
+.page {
+    text-align: center; 
+    height: 100%; 
+}
+
+.title {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    margin: 1.2em 0 1.2em 0; 
+}
+
+.subtitle {
+    font-size: 1.2rem; 
+    margin: 2.2em 0 0 0; 
+}
+
+.MiniTable {
+    margin: 0 auto 1.2em auto; 
+}
+
+.MiniTable th {
+    text-align: right; 
+    padding: 2px 5px; 
+}
+
+.MiniTable td {
+    text-align: left; 
+    padding: 2px 5px; 
+}
+
+.BackLink {
+    text-decoration: none; 
+    color: #222; 
+}
+
+.BackLink:hover {
+    color: #555; 
+}
+
+.BackArrow {
+    font-size: 2em; 
+}
+
+.BackText {
+    vertical-align: 25%; 
+}
+
+.FormTable {
+    margin: 2.2em auto 0 auto; 
+}
+
+.FormTable th {
+    text-align: right; 
+    padding: 2px 5px; 
+}
+
+.FormTable td {
+    text-align: left; 
+    padding: 2px 5px; 
+}
+
+.VisibilityOnOff {
+    height: 20px; 
+    vertical-align: bottom; 
+}
+
+hr {
+    width: 80%; 
+    border: 0; 
+    border-top: 1px dashed #aaa; 
+}
+
+.AccountContainer {
+    width: 55%; 
+    margin: 0 auto; 
+}
+
+.AccountCard {
+    padding: 10px 0; 
+}
+
+.AccountHeader {
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px; 
+    background-color: #ddeeff; 
+    border: 1px solid #aaa; 
+    padding: 12px 18px; 
+    font-size: 1.05rem; 
+}
+
+.AccountContent {
+    border-bottom-left-radius: 10px; 
+    border-bottom-right-radius: 10px; 
+    border: 1px solid #aaa; 
+    padding: 35px 0 0px 0; 
+    min-height: 190px; 
+}
